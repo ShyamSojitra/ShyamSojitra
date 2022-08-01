@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shyam</h1>
-<h3 align="center">Hello, my name is Shyam Sojitra and I work as a software engineer at Cognizant as a full-stack developer with two years of experience. My technology stack consists of Java/J2EE, Angular, Spring, Node.js, React, Flutter and HTML/CSS/JavaScript. In addition to programming, I'm quite interested in music and philosophy.</h3>
+<h3 align="center">Hello, my name is Shyam Sojitra and I work at Cognizant as a Full-Stack developer with two years of experience. My technology stack consists of Java/J2EE, Angular, Spring, Node.js, React, Flutter and HTML/CSS/JavaScript. In addition to programming, I'm quite interested in music and philosophy.</h3>
 
 - 🌱 I’m currently developing apps using **React, Flutter and Angular**
 
